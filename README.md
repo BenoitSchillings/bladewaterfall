@@ -16,3 +16,6 @@ benoit_blade -f <frequency in hz> -b <bandwidth in Mhz>
 When running, use the arrow keys to move in frequency, 
 spacebar to switch mode
 escape to leave
+
+
+Thank you to the rtlsdr code bases and nuand sample codes as my initial organ bank
